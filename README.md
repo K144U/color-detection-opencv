@@ -6,7 +6,9 @@ Detect and track objects of a specific color in real-time using your webcam. Thi
 
 ## 📸 Demo
 
-![Color Detection Demo](demo/color-detection.gif)
+![Color Detection Demo](gif1.gif)
+![Color Detection Demo](gif2.gif)
+
 
 > ✨ Replace `demo/color-detection.gif` with your own screen recording to showcase the detection.
 
